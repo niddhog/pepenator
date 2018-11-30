@@ -1,3 +1,7 @@
 '...'
+<<<<<<< HEAD
 '...'
-print('Hello c')
+print('Hello C')
+=======
+print('Hello C') 
+>>>>>>> develop
